@@ -36,7 +36,7 @@ export const clientReviews = [
     position: 'Intern Software-developer',
     img: 'assets/review2.jpg',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      "Vedant has shown exceptional dedication and strong performance throughout the internship. He consistently delivered quality work, demonstrated a great willingness to learn, and made valuable contributions to the team.",
   }
 ]
 
@@ -184,14 +184,6 @@ export const workExperiences = [
     title: "Done with the Web devolpment learning IInternship where I learned the devlopement and devlop the website ",
     icon: '/assets/review1.png',
     animation: 'clapping',
-  },
-  {
-    id: 3,
-    name: 'Notion',
-    pos: 'Junior Web Developer',
-    duration: '2019 - 2020',
-    title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
-    icon: '/assets/notion.svg',
-    animation: 'salute',
-  },
+  }
+
 ];
