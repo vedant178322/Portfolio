@@ -46,8 +46,8 @@ export const myProjects = [
     desc: 'This real estate website is designed to help users easily browse, buy, sell, or rent properties. With an intuitive interface, visitors can filter listings by location, price, and property type. Each listing includes detailed descriptions, high-quality images, and contact options for agents. The site may also feature interactive maps, mortgage calculators, and other tools to enhance the user experience, offering a seamless and informative journey for prospective buyers and sellers.',
     subdesc:
       'Built as a unique Software-as-a-Service app with React.js 14, Tailwind CSS, TypeScript, Framer Motion.',
-    href: 'https://github.com/vedant178322/realestate23',
-    texture: '/textures/project/project1.mp4',
+    href: 'https://realestate23-front.vercel.app/',
+    texture: '/public/assets/1video.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -83,8 +83,8 @@ export const myProjects = [
     desc: 'An Online Service Management System is a platform designed to manage and streamline the delivery of services. It typically allows businesses to track service requests, manage customer inquiries, assign tasks to service agents, and monitor service performance. This system helps ensure efficient service delivery, improves customer satisfaction, and provides a centralized platform for managing all service-related processes, such as ticketing, scheduling, and reporting.',
     subdesc:
       'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
-    texture: '/textures/project/project2.mp4',
+    href: 'https://github.com/vedant178322/OSMS',
+    texture: '/public/assets/2video.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
       backgroundColor: '#13202F',
@@ -121,7 +121,7 @@ export const myProjects = [
     desc: 'An AI Transcriber is a tool or software that uses artificial intelligence to convert audio or video content into written text (transcription). This technology is commonly used for transcribing interviews, meetings, podcasts, lectures, or any other type of spoken content.',
     subdesc:
       'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+    href: 'https://github.com/Parthw33/Voice-Dubber',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
